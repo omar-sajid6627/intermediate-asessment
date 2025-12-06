@@ -1,0 +1,28 @@
+[
+  {
+    "id": "user-1",
+    "name": "Alice Johnson",
+    "role": "manager"
+  },
+  {
+    "id": "user-2",
+    "name": "Bob Smith",
+    "role": "developer"
+  },
+  {
+    "id": "user-3",
+    "name": "Carol Williams",
+    "role": "developer"
+  },
+  {
+    "id": "user-4",
+    "name": "David Brown",
+    "role": "manager"
+  },
+  {
+    "id": "user-5",
+    "name": "Eve Davis",
+    "role": "developer"
+  }
+]
+

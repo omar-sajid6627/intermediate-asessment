@@ -1,0 +1,35 @@
+{
+  "name": "express-typescript-assessment",
+  "version": "1.0.0",
+  "description": "Node.js + Express + TypeScript coding assessment for intermediate engineers",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:solutions": "vitest run --config vitest.solutions.config.ts",
+    "dev": "tsx watch src/server.ts",
+    "start": "tsx src/server.ts"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "assessment"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.17.6",
+    "@types/supertest": "^6.0.2",
+    "supertest": "^7.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
+

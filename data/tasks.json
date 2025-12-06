@@ -1,0 +1,63 @@
+[
+  {
+    "id": "task-1",
+    "projectId": "proj-1",
+    "title": "Design mockups",
+    "status": "done"
+  },
+  {
+    "id": "task-2",
+    "projectId": "proj-1",
+    "title": "Implement homepage",
+    "status": "in_progress"
+  },
+  {
+    "id": "task-3",
+    "projectId": "proj-1",
+    "title": "Add contact form",
+    "status": "todo"
+  },
+  {
+    "id": "task-4",
+    "projectId": "proj-2",
+    "title": "Setup React Native",
+    "status": "done"
+  },
+  {
+    "id": "task-5",
+    "projectId": "proj-2",
+    "title": "Create login screen",
+    "status": "in_progress"
+  },
+  {
+    "id": "task-6",
+    "projectId": "proj-3",
+    "title": "Document endpoints",
+    "status": "todo"
+  },
+  {
+    "id": "task-7",
+    "projectId": "proj-3",
+    "title": "Write integration tests",
+    "status": "todo"
+  },
+  {
+    "id": "task-8",
+    "projectId": "proj-4",
+    "title": "Backup existing data",
+    "status": "done"
+  },
+  {
+    "id": "task-9",
+    "projectId": "proj-4",
+    "title": "Run migration scripts",
+    "status": "in_progress"
+  },
+  {
+    "id": "task-10",
+    "projectId": "proj-5",
+    "title": "Vulnerability scan",
+    "status": "todo"
+  }
+]
+

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "proj-1",
+    "name": "Website Redesign",
+    "ownerId": "user-1"
+  },
+  {
+    "id": "proj-2",
+    "name": "Mobile App",
+    "ownerId": "user-1"
+  },
+  {
+    "id": "proj-3",
+    "name": "API Integration",
+    "ownerId": "user-2"
+  },
+  {
+    "id": "proj-4",
+    "name": "Database Migration",
+    "ownerId": "user-4"
+  },
+  {
+    "id": "proj-5",
+    "name": "Security Audit",
+    "ownerId": "user-4"
+  }
+]
+
